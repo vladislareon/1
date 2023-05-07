@@ -1,0 +1,501 @@
+,0
+0,TFs and others_ETV4
+1,TFs and others_CTBP2
+2,TFs and others_HDAC1
+3,TFs and others_EBV-ZEBRA
+4,TFs and others_DPPA3
+5,TFs and others_SMAD2
+6,TFs and others_PARP1
+7,Histone_H2A.Z.2
+8,TFs and others_CBX7
+9,TFs and others_SAP30
+10,TFs and others_NOS2
+11,TFs and others_ZNF217
+12,TFs and others_INTS13
+13,TFs and others_LHX4
+14,TFs and others_PRDM11
+15,Histone_H3K14me3
+16,TFs and others_DPF2
+17,TFs and others_TCF3
+18,RNA polymerase_POLR2A
+19,TFs and others_CNOT3
+20,Histone_H2AK120Ub
+21,Histone_H3K9me1
+22,RNA polymerase_GTF3C1
+23,TFs and others_XRCC5
+24,TFs and others_KMT2C
+25,TFs and others_PIAS1
+26,TFs and others_ING2
+27,TFs and others_PHF8
+28,TFs and others_WRN
+29,TFs and others_BCL10
+30,TFs and others_GATAD2B
+31,TFs and others_ELF4
+32,TFs and others_BRCA1
+33,TFs and others_ELL
+34,TFs and others_BHLHE40
+35,TFs and others_RNF2
+36,TFs and others_ATF4
+37,TFs and others_SLBP
+38,TFs and others_RBPJ
+39,TFs and others_NEUROD2
+40,TFs and others_USP7
+41,TFs and others_E2F7
+42,TFs and others_SIN3A
+43,TFs and others_UBE2I
+44,TFs and others_ZBTB17
+45,TFs and others_SAG
+46,TFs and others_KMT2A
+47,TFs and others_ZFP42
+48,TFs and others_NKX2-1
+49,TFs and others_NFE2L1
+50,TFs and others_ZBTB48
+51,TFs and others_MYOG
+52,TFs and others_BRD9
+53,TFs and others_TFAM
+54,TFs and others_FXR2
+55,TFs and others_ZNF486
+56,TFs and others_MECP2
+57,TFs and others_CCND2
+58,TFs and others_SNAPC5
+59,TFs and others_ATRX
+60,TFs and others_JUND
+61,TFs and others_CIITA
+62,TFs and others_RFX5
+63,TFs and others_HHEX
+64,TFs and others_BCL11B
+65,TFs and others_ZNF274
+66,TFs and others_HES5
+67,TFs and others_PROX1
+68,TFs and others_KDM6A
+69,TFs and others_SNAPC2
+70,TFs and others_LIG4
+71,TFs and others_GABPA
+72,TFs and others_POU5F1
+73,Histone_H3K27me1
+74,TFs and others_WRNIP1
+75,TFs and others_ELF1
+76,TFs and others_PHF6
+77,TFs and others_KAT8
+78,TFs and others_MIXL1
+79,Histone_H1K85ac
+80,TFs and others_HES7
+81,TFs and others_BCL6
+82,TFs and others_GMEB2
+83,TFs and others_TCF12
+84,TFs and others_BRF2
+85,TFs and others_NPAT
+86,TFs and others_CBFA2T3
+87,TFs and others_KMT2D
+88,TFs and others_TP63
+89,TFs and others_UBE3A
+90,TFs and others_ASH2L
+91,TFs and others_NETO2
+92,TFs and others_AATF
+93,TFs and others_VDR
+94,TFs and others_NR2E3
+95,TFs and others_ATF2
+96,TFs and others_CTNNB1
+97,TFs and others_PHF2
+98,TFs and others_GATA6
+99,TFs and others_RBFOX2
+100,TFs and others_F2RL1
+101,TFs and others_CASP8AP2
+102,TFs and others_MEF2C
+103,TFs and others_NUP98
+104,TFs and others_AHRR
+105,TFs and others_NCAPG
+106,TFs and others_TFAP2C
+107,TFs and others_ERCC6
+108,TFs and others_REST
+109,TFs and others_ARNTL2
+110,TFs and others_HNRNPH1
+111,TFs and others_ZEB1
+112,TFs and others_KDM4A
+113,TFs and others_SUPT20H
+114,TFs and others_FOXP3
+115,TFs and others_CREBBP
+116,Histone_H2A.Zac
+117,TFs and others_SIRT3
+118,TFs and others_GTF3C5
+119,TFs and others_NOTCH3
+120,TFs and others_DYRK1A
+121,Histone_H4K8ac
+122,TFs and others_NEUROD1
+123,TFs and others_NCOA1
+124,Histone_H3T45ph
+125,TFs and others_SMARCA1
+126,TFs and others_TFDP1
+127,TFs and others_PBX4
+128,TFs and others_KLF11
+129,TFs and others_HEYL
+130,TFs and others_ARID3B
+131,TFs and others_AGO2
+132,TFs and others_TBX21
+133,TFs and others_LMNB1
+134,TFs and others_TRRAP
+135,TFs and others_MAP2K1
+136,Histone_H3K9me2
+137,TFs and others_TRP47
+138,Histone_H3K5ac
+139,Histone_H2Bub
+140,TFs and others_HOXA9
+141,TFs and others_NFKB1
+142,TFs and others_HNRNPK
+143,TFs and others_SSRP1
+144,TFs and others_SS18
+145,TFs and others_DNMT1
+146,TFs and others_BPTF
+147,TFs and others_SP140
+148,TFs and others_RARA
+149,TFs and others_SMAD1
+150,TFs and others_ELF3
+151,TFs and others_TEAD1
+152,Histone_H2AT120ph
+153,TFs and others_CEBPZ
+154,TFs and others_SNAPC1
+155,TFs and others_TOP1
+156,TFs and others_ONECUT2
+157,TFs and others_BRPF3
+158,TFs and others_BDP1
+159,TFs and others_MECOM
+160,TFs and others_MAML3
+161,TFs and others_RUNX1T1
+162,TFs and others_CPSF3L
+163,TFs and others_GRHL1
+164,TFs and others_TCF21
+165,TFs and others_CTCFL
+166,TFs and others_ATF3
+167,TFs and others_DTL
+168,TFs and others_NHLH1
+169,TFs and others_IRF1
+170,TFs and others_SCML2
+171,TFs and others_TWIST1
+172,TFs and others_KDM6B
+173,Histone_H4K16ac
+174,TFs and others_PIAS4
+175,TFs and others_ZBTB7A
+176,TFs and others_HNF1A
+177,TFs and others_SETDB1
+178,TFs and others_EBNA1
+179,TFs and others_PAX8
+180,Histone_H2
+181,TFs and others_NFE2
+182,TFs and others_HOXA4
+183,TFs and others_FOXH1
+184,TFs and others_MethylCap
+185,Histone_H4K4me3
+186,TFs and others_ADNP2
+187,TFs and others_HIC1
+188,TFs and others_ETS2
+189,TFs and others_XRN2
+190,TFs and others_RAG1
+191,TFs and others_HOXC5
+192,TFs and others_IRF8
+193,RNA polymerase_RNA polymerase III
+194,TFs and others_TAF15
+195,Histone_H2AK9ac
+196,Histone_H1.4K34ac
+197,TFs and others_LHX2
+198,TFs and others_SIX1
+199,TFs and others_ARNT
+200,TFs and others_PML
+201,TFs and others_PAX5
+202,TFs and others_CUL4A
+203,TFs and others_PDX1
+204,Histone_H3.Y
+205,TFs and others_BATF
+206,TFs and others_O-GlcNAc
+207,Histone_H4K20me3
+208,TFs and others_OGT
+209,TFs and others_CEBPD
+210,TFs and others_E2F1
+211,TFs and others_TBP
+212,TFs and others_IRF4
+213,Histone_H3K4ac
+214,TFs and others_JARID2
+215,TFs and others_FOS
+216,TFs and others_H3K9K14K18K23K27ac
+217,TFs and others_ARID5B
+218,TFs and others_LCOR
+219,TFs and others_CBX3
+220,TFs and others_USF1
+221,TFs and others_RELA
+222,Histone_H4
+223,TFs and others_MIF
+224,TFs and others_INTS12
+225,Histone_H2A.Z.1
+226,TFs and others_ZBTB2
+227,TFs and others_SUPT5H
+228,TFs and others_SREBF2
+229,TFs and others_PGR
+230,TFs and others_PRDM1
+231,TFs and others_SPIN1
+232,TFs and others_SMARCA2
+233,TFs and others_CTBP1
+234,TFs and others_CHD1
+235,Histone_H3K36me2
+236,TFs and others_TET2
+237,TFs and others_ZMIZ1
+238,TFs and others_TFCP2
+239,Histone_H3.3 K27M mutant
+240,Histone_H3K36ac
+241,TFs and others_KAT2B
+242,TFs and others_SMC3
+243,TFs and others_NR2F1
+244,TFs and others_NELFA
+245,TFs and others_LMNA
+246,TFs and others_DMC1
+247,TFs and others_CBFB
+248,TFs and others_CDK9
+249,RNA polymerase_POLR2G
+250,TFs and others_PLAG1
+251,TFs and others_TP53BP1
+252,TFs and others_HNRNPLL
+253,TFs and others_DNMT3A
+254,TFs and others_KDM2B
+255,TFs and others_BACH1
+256,Histone_H2BK120ub
+257,Histone_H3K4ox
+258,TFs and others_NELFE
+259,TFs and others_SUMO2
+260,TFs and others_CHAF1A
+261,TFs and others_MED12
+262,TFs and others_BMI1
+263,TFs and others_LYL1
+264,TFs and others_SOX9
+265,RNA polymerase_POLR3A
+266,TFs and others_RUNX3
+267,TFs and others_FXR1
+268,TFs and others_ARID1B
+269,TFs and others_MITF
+270,TFs and others_NR1H4
+271,TFs and others_MYC
+272,TFs and others_JMJD6
+273,TFs and others_KDM5A
+274,TFs and others_CHD4
+275,TFs and others_HDAC6
+276,TFs and others_JUN
+277,TFs and others_ZFX
+278,TFs and others_ERG
+279,TFs and others_MAZ
+280,TFs and others_CHD2
+281,TFs and others_GTF2F1
+282,TFs and others_NR4A2
+283,TFs and others_FOXP2
+284,TFs and others_MED25
+285,TFs and others_CDK7
+286,TFs and others_MYOD1
+287,TFs and others_CREB1
+288,TFs and others_CD74
+289,TFs and others_CEBPB
+290,TFs and others_KDM1A
+291,TFs and others_SOX11
+292,TFs and others_SALL4
+293,TFs and others_FOXP1
+294,TFs and others_SP1
+295,TFs and others_MYBL2
+296,TFs and others_DCP1A
+297,TFs and others_DUX4
+298,TFs and others_RAG2
+299,Histone_H3
+300,TFs and others_ZNF84
+301,TFs and others_KAT7
+302,TFs and others_ZNF263
+303,TFs and others_Cas9
+304,TFs and others_MAFK
+305,TFs and others_PPARGC1A
+306,TFs and others_STAT4
+307,TFs and others_NR3C2
+308,Histone_H3K9ac
+309,TFs and others_RUNX2
+310,TFs and others_PITX3
+311,TFs and others_SMARCC1
+312,TFs and others_RBP1
+313,TFs and others_HIF1A
+314,TFs and others_LHX5
+315,RNA polymerase_RNA polymerase II
+316,TFs and others_HDAC4
+317,TFs and others_XBP1
+318,TFs and others_SFPQ
+319,TFs and others_BRD2
+320,TFs and others_HOXB1
+321,Histone_H3K122ac
+322,TFs and others_TFAP2A
+323,TFs and others_MAFF
+324,TFs and others_CSNK2A1
+325,TFs and others_U2AF1
+326,Histone_H3K9me3
+327,TFs and others_ZSCAN5B
+328,TFs and others_PHOX2B
+329,TFs and others_ID3
+330,TFs and others_Epitope tags
+331,TFs and others_SIX2
+332,TFs and others_MEIS1
+333,TFs and others_FOSL2
+334,TFs and others_FOXA1
+335,RNA polymerase_POLR3GL
+336,TFs and others_MYBL1
+337,TFs and others_RB1
+338,TFs and others_FOXA2
+339,TFs and others_DRAP1
+340,TFs and others_ESR1
+341,TFs and others_ID1
+342,TFs and others_BCL11A
+343,C
+344,TFs and others_MED1
+345,TFs and others_SMAD3
+346,TFs and others_TFAP4
+347,TFs and others_TRIM28
+348,TFs and others_JDP2
+349,TFs and others_YY1
+350,TFs and others_GATA1
+351,TFs and others_STAT3
+352,Histone_H4K12ac
+353,Histone_macroH2A2
+354,Histone_H3K79me3
+355,TFs and others_ETS1
+356,TFs and others_NFYC
+357,TFs and others_TLX1
+358,Histone_H3K4me2
+359,Histone_H1.0
+360,TFs and others_RBM39
+361,TFs and others_THAP1
+362,Histone_H3K36me3
+363,TFs and others_HEY1
+364,Histone_H4ac
+365,TFs and others_SREBF1
+366,Histone_H2BK5ac
+367,DNase-seq_DNase-Seq
+368,TFs and others_RBL2
+369,TFs and others_SMAD4
+370,TFs and others_STAG1
+371,TFs and others_KDM5B
+372,TFs and others_HOXB13
+373,TFs and others_CHD7
+374,TFs and others_STAG2
+375,TFs and others_ELK4
+376,TFs and others_DDX5
+377,TFs and others_IKZF1
+378,TFs and others_MYF6
+379,TFs and others_SMC4
+380,Histone_H4K5K8ac
+381,TFs and others_UBP1
+382,Histone_H2A.Z
+383,TFs and others_RFX2
+384,TFs and others_TOP2A
+385,TFs and others_5-mC
+386,TFs and others_SAFB2
+387,TFs and others_PBX3
+388,Histone_H3K9K14ac
+389,TFs and others_HNRNPC
+390,TFs and others_KDM3A
+391,TFs and others_CTR9
+392,Histone_H3K4me3
+393,TFs and others_GLYR1
+394,TFs and others_BAP1
+395,TFs and others_CDK6
+396,TFs and others_EP300
+397,TFs and others_TSHZ1
+398,TFs and others_GATA2
+399,Histone_H2A.ZK4K7K11ac
+400,Histone_H3ac
+401,TFs and others_NR1I2
+402,TFs and others_CEBPA
+403,RNA polymerase_POLR2M
+404,TFs and others_MYB
+405,TFs and others_BRCA2
+406,TFs and others_OTX2
+407,TFs and others_TSC1
+408,Histone_H4K20me1
+409,TFs and others_RAD21
+410,TFs and others_MBD3
+411,RNA polymerase_POLR2B
+412,Histone_WAPL
+413,TFs and others_GATA3
+414,TFs and others_NR1D1
+415,TFs and others_TEAD4
+416,TFs and others_MAX
+417,TFs and others_TCF7L1
+418,TFs and others_MEF2B
+419,TFs and others_STAT1
+420,TFs and others_TP53
+421,TFs and others_HOXB5
+422,TFs and others_RBM25
+423,TFs and others_HMGN1
+424,TFs and others_BRD4
+425,TFs and others_ZNF76
+426,TFs and others_STAT5
+427,TFs and others_GRHL2
+428,TFs and others_JUNB
+429,TFs and others_SOX2
+430,TFs and others_AR
+431,TFs and others_NFE2L3
+432,Histone_H4K5K8K12K16ac
+433,TFs and others_FOXM1
+434,TFs and others_EBF1
+435,Histone_H2AK119Ub
+436,TFs and others_HIC2
+437,Histone_H3K27me3
+438,TFs and others_PSIP1
+439,TFs and others_NFYB
+440,TFs and others_NCOA3
+441,TFs and others_ZHX2
+442,Histone_H3K27ac
+443,TFs and others_ZNF768
+444,Histone_H3.1
+445,TFs and others_NFIC
+446,TFs and others_RUNX1
+447,TFs and others_ESR2
+448,TFs and others_GFP
+449,TFs and others_USF2
+450,TFs and others_SRSF3
+451,TFs and others_SATB1
+452,TFs and others_MTF1
+453,TFs and others_CDKN1B
+454,TFs and others_SMC1A
+455,TFs and others_RBBP7
+456,TFs and others_NR3C1
+457,TFs and others_ZEB2
+458,TFs and others_CHD8
+459,TFs and others_FLI1
+460,TFs and others_MTA2
+461,TFs and others_BATF3
+462,Histone_H3K56ac
+463,TFs and others_ESRRA
+464,TFs and others_YAP1
+465,TFs and others_GATA4
+466,TFs and others_EZH2
+467,TFs and others_TAL1
+468,TFs and others_SMARCA4
+469,TFs and others_SKP2
+470,Histone_H2BK15ac
+471,TFs and others_EOMES
+472,Histone_H3K79me2
+473,Histone_H3K79me1
+474,TFs and others_ZBTB39
+475,Histone_H3K4me1
+476,TFs and others_SP2
+477,TFs and others_LMO1
+478,TFs and others_SNAI2
+479,Histone_H3.3B
+480,TFs and others_SPI1
+481,TFs and others_ZBTB10
+482,TFs and others_HOXC8
+483,TFs and others_CTCF
+484,TFs and others_CRY1
+485,TFs and others_CBX4
+486,TFs and others_TAF1
+487,TFs and others_YEATS4
+488,Histone_H3K18ac
+489,TFs and others_NANOG
+490,TFs and others_FERD3L
+491,TFs and others_PPARG
+492,Histone_H3R26cit
+493,TFs and others_CLOCK
+494,TFs and others_ZNF639
+495,TFs and others_EGR1
+496,TFs and others_MTOR
+497,G
+498,T
+499,A
